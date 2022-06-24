@@ -1,0 +1,8 @@
+{
+    "MONGO_DB_SECRET": "",
+    "JWT_SECRET": "",
+    "COMPILER_API": "",
+    "COMPILER_ACCESS_TOKEN": "",
+    "PROBLEM_API": "",
+    "PROBLEM_ACCESS_TOKEN": ""
+}

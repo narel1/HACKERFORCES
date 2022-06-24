@@ -1,0 +1,24 @@
+.edit-problem {
+    margin: 20px;
+}
+
+.save-btn {
+    margin-top: 20px;
+}
+
+.edit-body-label {
+    margin-top: 10px;
+}
+
+.update-status {
+    margin-left: 20px;
+}
+
+.problem-status {
+    padding-left: 40px;
+}
+
+.add-testcase {
+    margin-left: 20px;
+    margin-right: 20px;
+}
